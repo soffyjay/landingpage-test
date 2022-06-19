@@ -1,0 +1,23 @@
+<svg width="191" height="74" viewBox="0 0 191 74" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M48.058 134.276C26.0758 108.254 29.458 69.466 55.6122 47.6413C81.7664 25.8166 120.789 29.2193 142.771 55.2413C164.753 81.2633 161.371 120.051 135.216 141.875C109.062 163.7 70.0401 160.298 48.058 134.276Z" fill="url(#paint0_radial_2_5156)"/>
+<path opacity="0.03" d="M93.0037 122.351C77.6717 121.014 66.3199 107.576 67.6487 92.3365C68.9776 77.0967 82.4839 65.8261 97.816 67.163C113.148 68.4999 124.5 81.938 123.171 97.1779C121.842 112.418 108.336 123.688 93.0037 122.351Z" fill="#FFE500"/>
+<path opacity="0.03" d="M60.568 127.889C42.1336 108.731 42.7968 78.3616 62.0493 60.0564C81.3017 41.7513 111.853 42.4423 130.287 61.5998C148.722 80.7573 148.058 111.127 128.806 129.432C109.554 147.737 79.0023 147.046 60.568 127.889Z" fill="#FFE500"/>
+<rect width="84.2679" height="83.7609" transform="matrix(-0.99622 -0.086867 -0.086867 0.99622 140.574 56.4821)" fill="url(#pattern0)"/>
+<defs>
+<pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_2_5156" transform="scale(0.0344828)"/>
+</pattern>
+<radialGradient id="paint0_radial_2_5156" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(-23089.2 16951.2) rotate(-175.017) scale(2634.18 2618.33)">
+<stop stop-color="#FFE500"/>
+<stop offset="0.09" stop-color="#FFE70F" stop-opacity="0.78"/>
+<stop offset="0.2" stop-color="#FFE81E" stop-opacity="0.58"/>
+<stop offset="0.3" stop-color="#FFE92B" stop-opacity="0.4"/>
+<stop offset="0.4" stop-color="#FFEA35" stop-opacity="0.26"/>
+<stop offset="0.51" stop-color="#FFEB3D" stop-opacity="0.14"/>
+<stop offset="0.61" stop-color="#FFEC42" stop-opacity="0.06"/>
+<stop offset="0.71" stop-color="#FFEC46" stop-opacity="0.02"/>
+<stop offset="0.81" stop-color="#FFEC47" stop-opacity="0"/>
+</radialGradient>
+<image id="image0_2_5156" width="29" height="29" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB0AAAAdCAYAAABWk2cPAAAACXBIWXMAAAsSAAALEgHS3X78AAABYElEQVRIS82WXXLDIAyEheO+57o5Qa7bA8SQh7LRsvw5nZTpzmggMdYnYSE7pJRstbbZgr/QPlvQ1PctvObX+9tbFU5tL0NmOhHEGFrCenN24PMBvA91YDCH8JyVzIE+74Db0BoIQ+G1Mo3mwCG4htbALVugEcaASCMHUIF71avAzcwuVgbAUIAO8hHzOMnUs4RjgPY8hyn0IHuYB4CAimxbmer2ArSbwxEUnOK3mQcSZHxptL26tbuZfeVRoY98HwdRFhRpBMUIqGYLKJ4jP1e+v5L33rJqMbJx1mpaYDD3R41m1nvVSc9p71pTM6gedn1Os+tN+fZ6Sfcc8jNT04aggU2PjC902GE/AaJKo9XVywFoAoVGUDjWiuRzyUEBHMlOQ5O5w2QlkIPRNWz19pJ6DV+PyTu9VzNNZxs+FqFp47/fvWVE/+R9Ci3/coCWfyOxln4N9rTku/fD8t67UE/C8/3649OmtAAAAABJRU5ErkJggg=="/>
+</defs>
+</svg>
