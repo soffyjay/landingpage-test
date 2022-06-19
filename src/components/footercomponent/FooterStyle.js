@@ -423,7 +423,6 @@ export const FooterStyle = styled.div`
     }
     .goldStack {
       width: 100vw;
-      border: 1px solid red;
       margin-top: 60px;
     }
     .firstCoin {

@@ -9,7 +9,6 @@ const GlobalStyle = createGlobalStyle`
     color:#fff;
       background: url(${background});
    
-     border:1px solid green;
   }
   *{
       padding:0;
